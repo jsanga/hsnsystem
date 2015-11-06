@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <Resource id="colegioDB" type="javax.sql.DataSource">#Fri Nov 06 11:31:53 COT 2015
+jdbcDriver=org.postgresql.Driver
+password=postgres
+userName=postgres
+jdbcUrl=jdbc\:postgresql\://localhost\:5432/redColegioDB
+</Resource>
+  <Resource id="colegios" type="javax.sql.DataSource">#Fri Nov 06 11:46:23 COT 2015
+jdbcDriver=org.postgresql.Driver
+password=postgres
+userName=postgres
+jdbcUrl=jdbc\:postgresql\://localhost\:5432/redColegioDB
+</Resource>
+  <Resource id="usuarios" type="javax.sql.DataSource">#Fri Nov 06 11:48:26 COT 2015
+jdbcDriver=org.postgresql.Driver
+password=postgres
+userName=postgres
+jdbcUrl=jdbc\:postgresql\://localhost\:5432/redColegioDB
+</Resource>
+</resources>
